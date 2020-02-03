@@ -4,7 +4,7 @@
 title: Liam Skinner
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: An awesome person who is ver famous and who loves cats and guitars.
 
 # --- Local development options ---
 # If your website is hosted locally rather than on GitHub, then you need to uncomment the next two parameters to set the url and baseurl
@@ -28,7 +28,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "https://cache.desktopnexus.com/thumbseg/2423/2423148-bigthumbnail.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Some Person
+  name: Cole Wilson
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -68,22 +68,22 @@ author:
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
   rss: true
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-#  reddit: yourname
-#  linkedin: daattali
-#  xing: yourname
+  email: "fred@hogwarts.email"
+  facebook: zuckerbarg123
+  github: catmanbobina
+  twitter: @RealDonaldTrump
+  reddit: AskReddit
+  linkedin: laimskinner
+  xing: tumblre
 #  stackoverflow: "3943160/daattali"
-#  snapchat: deanat78
-#  instagram: deanat78
-#  youtube: user/deanat78
-#  spotify: yourname
-#  telephone: +14159998888
-#  steam: deanat78
-#  twitch: yourname
-#  yelp: yourname
+  snapchat: Facebook2
+  instagram: Facebook69
+  youtube: user/google
+  spotify: rockusbockus
+  telephone: +16666666666
+  steam: smoke
+  twitch: fasciculations
+  yelp: resterauntcritic
 
 # Select which share links to show in posts
 share-links-active:
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "LiamSkinner.GitHub.Io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
